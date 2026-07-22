@@ -1,0 +1,21 @@
+
+body{margin:0;background:#ececec;font-family:Arial,Helvetica,sans-serif;color:#222}
+.page{width:810px;margin:0 auto;background:#fff}
+.topbar{background:#d8d8d8;height:34px}
+.ucd-top-logo{height:24px;float:right;margin:5px 10px 0 0}
+.masthead{padding:16px 14px 10px}
+.logo{height:104px}
+.nav{display:flex;background:#062d5b}
+.nav a{padding:14px 22px;color:#fff;text-decoration:none;font-weight:700;font-size:16px}
+.nav a:hover,.nav a.active{background:#f2b400;color:#062d5b}
+.content{display:flex;gap:26px;padding:24px 20px 30px}
+.left{flex:1}
+.left h1{font-size:27px;margin:0 0 22px}
+.left p{font-size:15px;line-height:1.55;margin:0 0 18px}
+.intro{margin-top:26px}
+.right{width:180px}
+.portrait{width:170px;border:1px solid #bbb;display:block;margin:0 auto}
+.contact{margin-top:10px;font-size:12px}
+.contact h2{font-size:14px;color:#062d5b;margin:0 0 8px}
+.contact p{margin:6px 0}
+.contact a{color:#0057b8;text-decoration:none}
