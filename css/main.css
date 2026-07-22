@@ -19,3 +19,22 @@ body{margin:0;background:#ececec;font-family:Arial,Helvetica,sans-serif;color:#2
 .contact h2{font-size:14px;color:#062d5b;margin:0 0 8px}
 .contact p{margin:6px 0}
 .contact a{color:#0057b8;text-decoration:none}
+
+
+.footer{
+background:#022851;
+color:#C99700;
+margin-top:40px;
+padding:28px 40px;
+text-align:center;
+}
+.footer .footer-content{
+max-width:1000px;
+margin:0 auto;
+font-size:15px;
+line-height:1.6;
+}
+.footer .copyright{font-size:14px;}
+.contact{margin-top:10px;font-size:14px}
+.contact p{margin:8px 0;font-size:1.15em}
+.spacer{height:.5em}
